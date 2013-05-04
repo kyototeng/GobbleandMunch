@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kyototeng.github.io/GobbleandMunch/atom.xml" rel="self"/>
+  <link href="http://kyototeng.github.io/GobbleandMunch/"/>
+  <updated>2013-05-04T20:58:11+01:00</updated>
+  <id>http://kyototeng.github.io/GobbleandMunch/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

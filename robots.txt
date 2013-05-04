@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kyototeng.github.io/GobbleandMunch/sitemap.xml 
